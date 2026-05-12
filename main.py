@@ -1,1 +1,6 @@
-print("Ol† mundo") 
+"""Ponto de entrada na raiz do reposit√≥rio."""
+
+from app.main import run_app
+
+if __name__ == "__main__":
+    run_app()
